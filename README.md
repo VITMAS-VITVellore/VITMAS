@@ -1,2 +1,1 @@
-# VITMAS
-Official Website VITMAS(Beta)
+# VITMAS WEBSITE
